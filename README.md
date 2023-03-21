@@ -10,4 +10,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygame.
 pip install pygame
 ```
 
-![This is an image](Img/Capture.PNG)
+# Space War
+
+![This is an image](Assets/Capture.PNG)
